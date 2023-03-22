@@ -1,0 +1,110 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!--This style will be used for the foremost key of the Piano-->
+    <style name="first_key_style_for_pink_key" >
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_marginTop">100dp</item>
+        <!--Custom Drawable file-->
+        <item name="android:background">@drawable/pressed_and_normal_selector</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+
+    <!--This style will used by rest of the piano keys that are of Pink colors-->
+
+    <style name="common_key_style_for_rest_of_the_piano_keys">
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_marginTop">100dp</item>
+        <!--Custom Drawable file-->
+        <item name="android:background">@drawable/pressed_and_normal_selector</item>
+        <item name="android:stateListAnimator">@null</item>
+
+    </style>
+
+    <!--This will be used for TextViews like C3,D3,E3,F3,G3,A3,B3-->
+    <style name="style_for_TextView_keyText3" >
+      <item name="android:layout_width">match_parent</item>
+      <item name="android:layout_height">match_parent</item>
+      <item name="android:capitalize">characters</item>
+      <item name="android:typeface">sans</item>
+      <item name="android:textSize">20sp</item>
+      <item name="android:textColor">#0440a0</item>
+      <item name="android:layout_marginRight">10dp</item>
+      <item name="android:layout_marginTop">260dp</item>
+      <item name="android:layout_alignBottom">@id/p7</item>
+    </style>
+
+    <!--This will be used for TextViews like C4,D4,E4,F4,G4,A4,B4-->
+    <style name="style_for_TextView_keyText4" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#700a7a</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">260dp</item>
+        <item name="android:layout_alignBottom">@id/p7</item>
+    </style>
+
+    <!--This will be used for TextViews like C5,D5,E5,F5,G5,A5,B5-->
+    <style name="style_for_TextView_keyText5" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#f04b32</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">260dp</item>
+        <item name="android:layout_alignBottom">@id/p7</item>
+    </style>
+
+    <!--This will be used for TextViews like C6,D6,E6,F6,G6,A6,B6-->
+    <style name="style_for_TextView_keyText6" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#0c0d0f</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">260dp</item>
+        <item name="android:layout_alignBottom">@id/p7</item>
+    </style>
+
+    <!--This will be used for TextViews like C7,D7,E7,F7,G7,A7,B7-->
+    <style name="style_for_TextView_keyText7" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#05760f</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">260dp</item>
+        <item name="android:layout_alignBottom">@id/p7</item>
+    </style>
+
+
+    <style name="black_piano_key_style">
+        <item name="android:layout_height">110dp</item>
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_marginTop">100dp</item>
+        <!--Custom Drwable file-->
+        <item name="android:background">@drawable/black_piano_key_selector</item>
+        <item name="android:layout_marginLeft">-14dp</item>
+    </style>
+
+
+</resources>
