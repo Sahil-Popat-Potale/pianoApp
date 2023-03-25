@@ -323,7 +323,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             @Override
             public void onClick(View view) {
 
-                scrollView.scrollTo((int) scrollView.getScrollX() - 30, (int) scrollView.getScrollX());
+                scrollView.scrollTo((int) scrollView.getScrollX() - 60, (int) scrollView.getScrollX());
             }
         });
 
@@ -331,7 +331,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             @Override
             public void onClick(View view) {
 
-                scrollView.scrollTo((int) scrollView.getScrollX() + 30, (int) scrollView.getScrollY());
+                scrollView.scrollTo((int) scrollView.getScrollX() + 60, (int) scrollView.getScrollY());
             }
         });
 
