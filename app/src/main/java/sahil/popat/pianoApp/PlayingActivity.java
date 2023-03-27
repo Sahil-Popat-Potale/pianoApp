@@ -115,7 +115,7 @@ public class PlayingActivity extends AppCompatActivity {
 
         if (!isplaying2&&!isplaying){
             record2.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(2);
             isplaying = true;
             isplaying2 = true;
 
@@ -137,7 +137,7 @@ public class PlayingActivity extends AppCompatActivity {
             isplaying6 = false;
 
             record2.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(2);
             isplaying2 = true;
 
         }else {
@@ -155,7 +155,7 @@ public class PlayingActivity extends AppCompatActivity {
 
         if (!isplaying3&&!isplaying){
             record3.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(3);
             isplaying = true;
             isplaying3 = true;
 
@@ -177,7 +177,7 @@ public class PlayingActivity extends AppCompatActivity {
             isplaying6 = false;
 
             record3.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(3);
             isplaying3 = true;
 
         }else {
@@ -196,7 +196,7 @@ public class PlayingActivity extends AppCompatActivity {
 
         if (!isplaying4&&!isplaying){
             record4.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(4);
             isplaying = true;
             isplaying4 = true;
 
@@ -218,7 +218,7 @@ public class PlayingActivity extends AppCompatActivity {
             isplaying6 = false;
 
             record4.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(4);
             isplaying4 = true;
 
         }else {
@@ -236,7 +236,7 @@ public class PlayingActivity extends AppCompatActivity {
 
         if (!isplaying5&&!isplaying){
             record5.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(5);
             isplaying = true;
             isplaying5 = true;
 
@@ -258,7 +258,7 @@ public class PlayingActivity extends AppCompatActivity {
             isplaying6 = false;
 
             record5.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(5);
             isplaying5 = true;
 
         }else {
@@ -275,7 +275,7 @@ public class PlayingActivity extends AppCompatActivity {
 
         if (!isplaying6&&!isplaying){
             record6.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(6);
             isplaying = true;
             isplaying6 = true;
 
@@ -297,7 +297,7 @@ public class PlayingActivity extends AppCompatActivity {
             isplaying6 = false;
 
             record6.setBackgroundResource(R.drawable.playsongshapepressed);
-            startplaying(1);
+            startplaying(6);
             isplaying6 = true;
 
         }else {
