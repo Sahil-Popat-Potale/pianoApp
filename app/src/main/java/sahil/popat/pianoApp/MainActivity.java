@@ -280,7 +280,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         d7black = soundPool.load(this, R.raw.d7black, 1);
         e7 = soundPool.load(this, R.raw.e7, 1);
         f7 = soundPool.load(this, R.raw.f7, 1);
-        f3black = soundPool.load(this, R.raw.f3black, 1);
+        f7black = soundPool.load(this, R.raw.f7black, 1);
         g7 = soundPool.load(this, R.raw.g7, 1);
         g7black = soundPool.load(this, R.raw.g7black, 1);
         a7 = soundPool.load(this, R.raw.a7, 1);
