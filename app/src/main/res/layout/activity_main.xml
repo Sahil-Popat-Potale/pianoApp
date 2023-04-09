@@ -20,7 +20,7 @@
         android:layout_centerVertical="true">
 
         <RelativeLayout
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="match_parent">
 
             <Button
@@ -30,339 +30,339 @@
             <Button
                 android:id="@+id/p2"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p1"/>
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p1"/>
 
             <Button
                 android:id="@+id/p3"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p2" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p2" />
 
             <Button
                 android:id="@+id/p4"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p3" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p3" />
 
             <Button
                 android:id="@+id/p5"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p4" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p4" />
 
             <Button
                 android:id="@+id/p6"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p5" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p5" />
 
             <Button
                 android:id="@+id/p7"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p6" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p6" />
 
             <Button
                 android:id="@+id/p8"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p7" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p7" />
 
             <Button
                 android:id="@+id/p9"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p8" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p8" />
 
             <Button
                 android:id="@+id/p10"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p9" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p9" />
 
             <Button
                 android:id="@+id/p11"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p10"/>
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p10"/>
 
             <Button
                 android:id="@+id/p12"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p11"/>
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p11"/>
 
             <Button
                 android:id="@+id/p13"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p12" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p12" />
 
             <Button
                 android:id="@+id/p14"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p13" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p13" />
 
             <Button
                 android:id="@+id/p15"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p14" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p14" />
 
             <Button
                 android:id="@+id/p16"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p15" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p15" />
 
             <Button
                 android:id="@+id/p17"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p16" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p16" />
 
             <Button
                 android:id="@+id/p18"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p17" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p17" />
 
             <Button
                 android:id="@+id/p19"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p18" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p18" />
 
             <Button
                 android:id="@+id/p20"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p19" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p19" />
 
             <Button
                 android:id="@+id/p21"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p20" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p20" />
 
             <Button
                 android:id="@+id/p22"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p21" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p21" />
 
             <Button
                 android:id="@+id/p23"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p22" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p22" />
 
             <Button
                 android:id="@+id/p24"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p23" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p23" />
 
             <Button
                 android:id="@+id/p25"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p24" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p24" />
 
             <Button
                 android:id="@+id/p26"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p25"/>
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p25"/>
 
             <Button
                 android:id="@+id/p27"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p26"/>
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p26"/>
 
             <Button
                 android:id="@+id/p28"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p27" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p27" />
 
             <Button
                 android:id="@+id/p29"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p28" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p28" />
 
             <Button
                 android:id="@+id/p30"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p29" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p29" />
 
             <Button
                 android:id="@+id/p31"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p30" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p30" />
 
             <Button
                 android:id="@+id/p32"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p31" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p31" />
 
             <Button
                 android:id="@+id/p33"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p32" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p32" />
 
             <Button
                 android:id="@+id/p34"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p33" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p33" />
 
             <Button
                 android:id="@+id/p35"
                 style="@style/first_key_style_for_pink_key"
-                android:layout_marginLeft="2dp"
-                android:layout_toRightOf="@+id/p34" />
+                android:layout_marginStart="2dp"
+                android:layout_toEndOf="@+id/p34" />
 
             <Button
                 android:id="@+id/b1"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p1" />
+                android:layout_toEndOf="@id/p1" />
 
             <Button
                 android:id="@+id/b2"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p2" />
+                android:layout_toEndOf="@id/p2" />
 
             <Button
                 android:id="@+id/b3"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p4" />
+                android:layout_toEndOf="@id/p4" />
 
 
             <Button
                 android:id="@+id/b4"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p5" />
+                android:layout_toEndOf="@id/p5" />
 
 
             <Button
                 android:id="@+id/b5"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p6" />
+                android:layout_toEndOf="@id/p6" />
 
 
             <Button
                 android:id="@+id/b6"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p8" />
+                android:layout_toEndOf="@id/p8" />
 
             <Button
                 android:id="@+id/b7"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p9" />
+                android:layout_toEndOf="@id/p9" />
 
             <Button
                 android:id="@+id/b8"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p11" />
+                android:layout_toEndOf="@id/p11" />
 
             <Button
                 android:id="@+id/b9"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p12" />
+                android:layout_toEndOf="@id/p12" />
 
             <Button
                 android:id="@+id/b10"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p13" />
+                android:layout_toEndOf="@id/p13" />
 
             <Button
                 android:id="@+id/b11"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p15" />
+                android:layout_toEndOf="@id/p15" />
 
             <Button
                 android:id="@+id/b12"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p16" />
+                android:layout_toEndOf="@id/p16" />
 
             <Button
                 android:id="@+id/b13"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p18" />
+                android:layout_toEndOf="@id/p18" />
 
             <Button
                 android:id="@+id/b14"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p19" />
+                android:layout_toEndOf="@id/p19" />
 
             <Button
                 android:id="@+id/b15"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p20" />
+                android:layout_toEndOf="@id/p20" />
 
             <Button
                 android:id="@+id/b16"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p22" />
+                android:layout_toEndOf="@id/p22" />
 
             <Button
                 android:id="@+id/b17"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p23" />
+                android:layout_toEndOf="@id/p23" />
 
             <Button
                 android:id="@+id/b18"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p25" />
+                android:layout_toEndOf="@id/p25" />
 
             <Button
                 android:id="@+id/b19"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p26" />
+                android:layout_toEndOf="@id/p26" />
 
             <Button
                 android:id="@+id/b20"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p27" />
+                android:layout_toEndOf="@id/p27" />
 
             <Button
                 android:id="@+id/b21"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p29" />
+                android:layout_toEndOf="@id/p29" />
 
             <Button
                 android:id="@+id/b22"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p30" />
+                android:layout_toEndOf="@id/p30" />
 
             <Button
                 android:id="@+id/b23"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p32" />
+                android:layout_toEndOf="@id/p32" />
 
             <Button
                 android:id="@+id/b24"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p33" />
+                android:layout_toEndOf="@id/p33" />
 
             <Button
                 android:id="@+id/b25"
                 style="@style/black_piano_key_style"
-                android:layout_toRightOf="@id/p34" />
+                android:layout_toEndOf="@id/p34" />
 
             <TextView
                 android:id="@+id/tc3"
                 style="@style/style_for_TextView_keyText3"
-                android:layout_toLeftOf="@id/p2"
+                android:layout_toStartOf="@id/p2"
                 android:stateListAnimator="@null"
                 android:text="C3"
                 android:textIsSelectable="false" />
@@ -370,7 +370,7 @@
             <TextView
                 android:id="@+id/td3"
                 style="@style/style_for_TextView_keyText3"
-                android:layout_toLeftOf="@id/p3"
+                android:layout_toStartOf="@id/p3"
                 android:stateListAnimator="@null"
                 android:text="D3"
                 android:textIsSelectable="false" />
@@ -378,7 +378,7 @@
             <TextView
                 android:id="@+id/te3"
                 style="@style/style_for_TextView_keyText3"
-                android:layout_toLeftOf="@id/p4"
+                android:layout_toStartOf="@id/p4"
                 android:stateListAnimator="@null"
                 android:text="E3"
                 android:textIsSelectable="false" />
@@ -386,7 +386,7 @@
             <TextView
                 android:id="@+id/tf3"
                 style="@style/style_for_TextView_keyText3"
-                android:layout_toLeftOf="@id/p5"
+                android:layout_toStartOf="@id/p5"
                 android:stateListAnimator="@null"
                 android:text="F3"
                 android:textIsSelectable="false" />
@@ -394,7 +394,7 @@
             <TextView
                 android:id="@+id/tg3"
                 style="@style/style_for_TextView_keyText3"
-                android:layout_toLeftOf="@id/p6"
+                android:layout_toStartOf="@id/p6"
                 android:stateListAnimator="@null"
                 android:text="G3"
                 android:textIsSelectable="false" />
@@ -402,7 +402,7 @@
             <TextView
                 android:id="@+id/ta3"
                 style="@style/style_for_TextView_keyText3"
-                android:layout_toLeftOf="@id/p7"
+                android:layout_toStartOf="@id/p7"
                 android:stateListAnimator="@null"
                 android:text="A3"
                 android:textIsSelectable="false" />
@@ -410,7 +410,7 @@
             <TextView
                 android:id="@+id/tb3"
                 style="@style/style_for_TextView_keyText3"
-                android:layout_toLeftOf="@id/p8"
+                android:layout_toStartOf="@id/p8"
                 android:stateListAnimator="@null"
                 android:text="B3"
                 android:textIsSelectable="false" />
@@ -418,7 +418,7 @@
             <TextView
                 android:id="@+id/tc4"
                 style="@style/style_for_TextView_keyText4"
-                android:layout_toLeftOf="@id/p9"
+                android:layout_toStartOf="@id/p9"
                 android:stateListAnimator="@null"
                 android:text="C4"
                 android:textIsSelectable="false" />
@@ -426,7 +426,7 @@
             <TextView
                 android:id="@+id/td4"
                 style="@style/style_for_TextView_keyText4"
-                android:layout_toLeftOf="@id/p10"
+                android:layout_toStartOf="@id/p10"
                 android:stateListAnimator="@null"
                 android:text="D4"
                 android:textIsSelectable="false" />
@@ -434,7 +434,7 @@
             <TextView
                 android:id="@+id/te4"
                 style="@style/style_for_TextView_keyText4"
-                android:layout_toLeftOf="@id/p11"
+                android:layout_toStartOf="@id/p11"
                 android:stateListAnimator="@null"
                 android:text="E4"
                 android:textIsSelectable="false" />
@@ -442,7 +442,7 @@
             <TextView
                 android:id="@+id/tf4"
                 style="@style/style_for_TextView_keyText4"
-                android:layout_toLeftOf="@id/p12"
+                android:layout_toStartOf="@id/p12"
                 android:stateListAnimator="@null"
                 android:text="F4"
                 android:textIsSelectable="false" />
@@ -450,7 +450,7 @@
             <TextView
                 android:id="@+id/tg4"
                 style="@style/style_for_TextView_keyText4"
-                android:layout_toLeftOf="@id/p13"
+                android:layout_toStartOf="@id/p13"
                 android:stateListAnimator="@null"
                 android:text="G4"
                 android:textIsSelectable="false" />
@@ -458,7 +458,7 @@
             <TextView
                 android:id="@+id/ta4"
                 style="@style/style_for_TextView_keyText4"
-                android:layout_toLeftOf="@id/p14"
+                android:layout_toStartOf="@id/p14"
                 android:stateListAnimator="@null"
                 android:text="A4"
                 android:textIsSelectable="false" />
@@ -466,7 +466,7 @@
             <TextView
                 android:id="@+id/tb4"
                 style="@style/style_for_TextView_keyText4"
-                android:layout_toLeftOf="@id/p15"
+                android:layout_toStartOf="@id/p15"
                 android:stateListAnimator="@null"
                 android:text="B4"
                 android:textIsSelectable="false" />
@@ -474,7 +474,7 @@
             <TextView
                 android:id="@+id/tc5"
                 style="@style/style_for_TextView_keyText5"
-                android:layout_toLeftOf="@id/p16"
+                android:layout_toStartOf="@id/p16"
                 android:stateListAnimator="@null"
                 android:text="C5"
                 android:textIsSelectable="false" />
@@ -482,7 +482,7 @@
             <TextView
                 android:id="@+id/td5"
                 style="@style/style_for_TextView_keyText5"
-                android:layout_toLeftOf="@id/p17"
+                android:layout_toStartOf="@id/p17"
                 android:stateListAnimator="@null"
                 android:text="D5"
                 android:textIsSelectable="false" />
@@ -490,7 +490,7 @@
             <TextView
                 android:id="@+id/te5"
                 style="@style/style_for_TextView_keyText5"
-                android:layout_toLeftOf="@id/p18"
+                android:layout_toStartOf="@id/p18"
                 android:stateListAnimator="@null"
                 android:text="E5"
                 android:textIsSelectable="false" />
@@ -498,7 +498,7 @@
             <TextView
                 android:id="@+id/tf5"
                 style="@style/style_for_TextView_keyText5"
-                android:layout_toLeftOf="@id/p19"
+                android:layout_toStartOf="@id/p19"
                 android:stateListAnimator="@null"
                 android:text="F5"
                 android:textIsSelectable="false" />
@@ -506,7 +506,7 @@
             <TextView
                 android:id="@+id/tg5"
                 style="@style/style_for_TextView_keyText5"
-                android:layout_toLeftOf="@id/p20"
+                android:layout_toStartOf="@id/p20"
                 android:stateListAnimator="@null"
                 android:text="G5"
                 android:textIsSelectable="false" />
@@ -514,7 +514,7 @@
             <TextView
                 android:id="@+id/ta5"
                 style="@style/style_for_TextView_keyText5"
-                android:layout_toLeftOf="@id/p21"
+                android:layout_toStartOf="@id/p21"
                 android:stateListAnimator="@null"
                 android:text="A5"
                 android:textIsSelectable="false" />
@@ -522,7 +522,7 @@
             <TextView
                 android:id="@+id/tb5"
                 style="@style/style_for_TextView_keyText5"
-                android:layout_toLeftOf="@id/p22"
+                android:layout_toStartOf="@id/p22"
                 android:stateListAnimator="@null"
                 android:text="B5"
                 android:textIsSelectable="false" />
@@ -530,7 +530,7 @@
             <TextView
                 android:id="@+id/tc6"
                 style="@style/style_for_TextView_keyText6"
-                android:layout_toLeftOf="@id/p23"
+                android:layout_toStartOf="@id/p23"
                 android:stateListAnimator="@null"
                 android:text="C6"
                 android:textIsSelectable="false" />
@@ -538,7 +538,7 @@
             <TextView
                 android:id="@+id/td6"
                 style="@style/style_for_TextView_keyText6"
-                android:layout_toLeftOf="@id/p24"
+                android:layout_toStartOf="@id/p24"
                 android:stateListAnimator="@null"
                 android:text="D6"
                 android:textIsSelectable="false" />
@@ -546,7 +546,7 @@
             <TextView
                 android:id="@+id/te6"
                 style="@style/style_for_TextView_keyText6"
-                android:layout_toLeftOf="@id/p25"
+                android:layout_toStartOf="@id/p25"
                 android:stateListAnimator="@null"
                 android:text="E6"
                 android:textIsSelectable="false" />
@@ -554,7 +554,7 @@
             <TextView
                 android:id="@+id/tf6"
                 style="@style/style_for_TextView_keyText6"
-                android:layout_toLeftOf="@id/p26"
+                android:layout_toStartOf="@id/p26"
                 android:stateListAnimator="@null"
                 android:text="F6"
                 android:textIsSelectable="false" />
@@ -562,7 +562,7 @@
             <TextView
                 android:id="@+id/tg6"
                 style="@style/style_for_TextView_keyText6"
-                android:layout_toLeftOf="@id/p27"
+                android:layout_toStartOf="@id/p27"
                 android:stateListAnimator="@null"
                 android:text="G6"
                 android:textIsSelectable="false" />
@@ -570,7 +570,7 @@
             <TextView
                 android:id="@+id/ta6"
                 style="@style/style_for_TextView_keyText6"
-                android:layout_toLeftOf="@id/p28"
+                android:layout_toStartOf="@id/p28"
                 android:stateListAnimator="@null"
                 android:text="A6"
                 android:textIsSelectable="false" />
@@ -578,7 +578,7 @@
             <TextView
                 android:id="@+id/tb6"
                 style="@style/style_for_TextView_keyText6"
-                android:layout_toLeftOf="@id/p29"
+                android:layout_toStartOf="@id/p29"
                 android:stateListAnimator="@null"
                 android:text="B6"
                 android:textIsSelectable="false" />
@@ -586,7 +586,7 @@
             <TextView
                 android:id="@+id/tc7"
                 style="@style/style_for_TextView_keyText7"
-                android:layout_toLeftOf="@id/p30"
+                android:layout_toStartOf="@id/p30"
                 android:stateListAnimator="@null"
                 android:text="C7"
                 android:textIsSelectable="false" />
@@ -594,7 +594,7 @@
             <TextView
                 android:id="@+id/td7"
                 style="@style/style_for_TextView_keyText7"
-                android:layout_toLeftOf="@id/p31"
+                android:layout_toStartOf="@id/p31"
                 android:stateListAnimator="@null"
                 android:text="D7"
                 android:textIsSelectable="false" />
@@ -602,7 +602,7 @@
             <TextView
                 android:id="@+id/te7"
                 style="@style/style_for_TextView_keyText7"
-                android:layout_toLeftOf="@id/p32"
+                android:layout_toStartOf="@id/p32"
                 android:stateListAnimator="@null"
                 android:text="E7"
                 android:textIsSelectable="false" />
@@ -610,7 +610,7 @@
             <TextView
                 android:id="@+id/tf7"
                 style="@style/style_for_TextView_keyText7"
-                android:layout_toLeftOf="@id/p33"
+                android:layout_toStartOf="@id/p33"
                 android:stateListAnimator="@null"
                 android:text="F7"
                 android:textIsSelectable="false" />
@@ -618,7 +618,7 @@
             <TextView
                 android:id="@+id/tg7"
                 style="@style/style_for_TextView_keyText7"
-                android:layout_toLeftOf="@id/p34"
+                android:layout_toStartOf="@id/p34"
                 android:stateListAnimator="@null"
                 android:text="G7"
                 android:textIsSelectable="false" />
@@ -634,8 +634,8 @@
             <TextView
                 android:id="@+id/tb7"
                 style="@style/style_for_TextView_keyText7"
-                android:layout_toRightOf="@id/p34"
-                android:paddingLeft="10dp"
+                android:layout_toEndOf="@id/p34"
+                android:paddingStart="10dp"
                 android:stateListAnimator="@null"
                 android:text="B7"
                 android:textIsSelectable="false" />
